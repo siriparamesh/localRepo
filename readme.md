@@ -5,7 +5,7 @@ this is my local repo. <br>
  The purpose of this file is to provide examples on how to use Git and GitHub together.
  commands used:
  git int
- git remote add origin https://github.com/kamal-ali01/example_
+ git remote add origin https://github.com/xyz/example_
  git remote -v
  git branch
  git branch -M main
@@ -14,4 +14,4 @@ this is my local repo. <br>
  
  ### Getting started
  [x] Initialize your repository with `git init`
- 
+
